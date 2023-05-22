@@ -18,6 +18,7 @@ SRC_URI = " \
 	file://${MACHINE}/0004-mkimage-Fix-header-generation-of-boot.scr.patch \
 	file://${MACHINE}/boot.cmd \
 	file://${MACHINE}/uEnv.txt \
+        file://${MACHINE}/extra_uEnv.txt \
 "
 
 SRCREV = "693c4cd017e57a6af8e471494be5e8780c041b08"
